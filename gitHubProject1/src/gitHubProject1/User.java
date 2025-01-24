@@ -5,7 +5,7 @@ public class User {
 
 	  private String name;
 	  private int age;
-	  
+	  private int test;
 	   
 	  public User() {
 		super();
