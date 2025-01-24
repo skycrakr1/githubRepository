@@ -6,7 +6,7 @@ public class User {
 	  private String name;
 	  private int age;
 	  private int test;
-	  private anotherTest;
+	  private int anotherTest;
 	
 	  public User() {
 		super();
